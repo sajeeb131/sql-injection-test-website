@@ -1,0 +1,297 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.img{
+    position: absolute;
+    top: 50px;
+}
+.dashboard-login-dark-theme-text button{
+    background: none;
+    border: none;
+    color: aliceblue;
+    font-style: Regular;
+    font-family: Lexend Deca;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+    font-size: 18px;
+}
+.dashboard-login-dark-theme-dashboard-login-dark-theme {
+    width: 100%;
+    height: 1080px;
+    display: flex;
+    overflow: hidden;
+    position: relative;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+    background-color: rgba(9, 53, 69, 1);
+  }
+  .dashboard-login-dark-theme-vectors {
+    top: 910px;
+    left: 2px;
+    width: 1960.3603515625px;
+    border: 2px dashed rgba(120, 120, 120, 0.4);
+    height: 170px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    margin-right: 0;
+    border-radius: 0px 0px 0px 0px;
+    margin-bottom: 0;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .dashboard-login-dark-theme-form {
+    top: 261px;
+    left: 832px;
+    width: 300px;
+    height: 399px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    margin-right: 0;
+    border-radius: 0px 0px 0px 0px;
+    margin-bottom: 0;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .dashboard-login-dark-theme-section-forgot {
+    top: 313px;
+    left: 3px;
+    width: 292px;
+    border: 2px dashed rgba(120, 120, 120, 0.4);
+    height: 17px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    border-radius: 0px 0px 0px 0px;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .dashboard-login-dark-theme-loginbtn {
+    left: 0px;
+    width: 300px;
+    bottom: 24px;
+    height: 45px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    border-radius: 0px 0px 0px 0px;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: rgba(32, 223, 127, 1);
+  }
+  .dashboard-login-dark-theme-text {
+    top: 13px;
+    left: 128px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: center;
+    font-family: Lexend Deca;
+    font-weight: 400;
+    line-height: 20px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .dashboard-login-dark-theme-password {
+    top: 230px;
+    left: 0px;
+    width: 300px;
+    height: 45px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    border-radius: 0px 0px 0px 0px;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: rgba(34, 73, 87, 1);
+  }
+  .dashboard-login-dark-theme-text02 {
+    top: 13px;
+    left: 21px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 14px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: center;
+    font-family: Lexend Deca;
+    font-weight: 400;
+    line-height: 20px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .dashboard-login-dark-theme-username {
+    top: 168px;
+    left: 0px;
+    width: 300px;
+    height: 45px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    border-radius: 0px 0px 0px 0px;
+    flex-direction: row;
+    justify-content: flex-start;
+    
+  }
+  .dashboard-login-dark-theme-text04 {
+    top: 12px;
+    left: 18px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 14px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: center;
+    font-family: Lexend Deca;
+    font-weight: 400;
+    line-height: 20px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .dashboard-login-dark-theme-text06 {
+    top: 80px;
+    left: 44px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: center;
+    font-family: Lexend Deca;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .dashboard-login-dark-theme-text08 {
+    left: 40px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 64px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: center;
+    font-family: Lexend Deca;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  
+  .dashboard-login-dark-theme-username {
+    display: flex;
+  }
+  
+  .dashboard-login-dark-theme-username input[type="text"] {
+    flex: 1;
+    width: 100%;
+    height: 100%;
+    padding-left: 20px;
+    background-color: rgba(34, 73, 87, 1);
+    border: none;
+    color: aliceblue;
+    font-style: Regular;
+    font-family: Lexend Deca;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+
+  .dashboard-login-dark-theme-username input[type="text"]::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+    color: aliceblue;
+    opacity: 1; /* Firefox */
+  }
+
+  .dashboard-login-dark-theme-password {
+    display: flex;
+  }
+  
+  .dashboard-login-dark-theme-password input {
+    flex: 1;
+    width: 100%;
+    height: 100%;
+    padding-left: 20px;
+    background-color: rgba(34, 73, 87, 1);
+    border: none;
+    color: aliceblue;
+    font-style: Regular;
+    font-family: Lexend Deca;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+
+
+  .dashboard-login-dark-theme-password input[type="text"]::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+    color: aliceblue;
+    opacity: 1; /* Firefox */
+  }
+  img{
+    position: absolute;
+    top: 50px;
+}
+.btn2{
+  padding-top: 20px;
+  position: absolute;
+  top: 73%;
+  left: 43.5%;
+}
